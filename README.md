@@ -61,7 +61,7 @@ To run the project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd movie-app
+   cd My_React_Movie_App
    ```
 
 3. Install the dependencies:
